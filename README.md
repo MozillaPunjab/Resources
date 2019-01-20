@@ -1,5 +1,5 @@
 # Resources
-All the resources(graphics, slides, links, etc) shared during our events will be found here.
+All the resources (graphics, slides, links, etc) shared during our events can be found here.
 
 ### Follow our Social Media Handles:
 
