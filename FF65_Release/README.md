@@ -1,7 +1,7 @@
-# Tech for Democracy
-Date: 23rd February 2019 (Saturday)  
+# Firefox Release Party
+Date: 29th January 2019 (Tuesday)  
 Venue: Lovely Professional University, Jalandhar  
-Timings: 09:00 AM to 04:00 PM
+Timings: 03:00 PM to 05:00 PM
 
 Speakers:  
  [Vishal Das](https://githubcampus.expert/kindavishal/) : Contributing to Open Source   
