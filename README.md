@@ -1,8 +1,9 @@
 # Resources
 All the resources (graphics, slides, links, etc) shared during our events can be found here.
 
-### Follow our Social Media Handles:
+### Get Connected:
 
+[Meetup](https://www.meetup.com/MozillaPunjab/)   
 [Twitter](https://twitter.com/MozPunjab)  
 [Facebook](https://www.facebook.com/MozillaPunjab/)  
 [Mastadoon](https://mastodon.social/@MozPunjab)  
