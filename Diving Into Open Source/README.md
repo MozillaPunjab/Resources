@@ -53,4 +53,11 @@ Main Rep: [Tanzeel Khan](https://mozillians.org/en-US/u/tanzeelkhan/)
 - Contribute to Localisatoin Using Pontoon: [Pontoon](http://pontoon.mozilla.org/)
 
 ---
-Thank you to everyone involved, We appreciate your efforts and celebrate you :hearts:
+Thank you to everyone involved, We appreciate your efforts and celebrate you :hearts:   
+Follow us on 
+[Meetup](https://www.meetup.com/MozillaPunjab/) 
+[Twitter](https://twitter.com/MozPunjab) 
+[Facebook](https://www.facebook.com/MozillaPunjab/) 
+[Mastadoon](https://mastodon.social/@MozPunjab) 
+[LinkedIn](https://www.linkedin.com/company/mozilla-punjab/) 
+[Telegram](https://t.me/mozillapunjab)
