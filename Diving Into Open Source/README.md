@@ -60,4 +60,3 @@ Follow us on
 [Facebook](https://www.facebook.com/MozillaPunjab/) 
 [Mastadoon](https://mastodon.social/@MozPunjab) 
 [LinkedIn](https://www.linkedin.com/company/mozilla-punjab/) 
-[Telegram](https://t.me/mozillapunjab)
