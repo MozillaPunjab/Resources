@@ -9,3 +9,4 @@ All the resources (graphics, slides, links, etc) shared during our events can be
 [Mastadoon](https://mastodon.social/@MozPunjab)  
 [LinkedIn](https://www.linkedin.com/company/mozilla-punjab/)  
 [Telegram](https://t.me/mozillapunjab)
+[Instagram](https://www.instagram.com/mozpunjab/)
